@@ -1,0 +1,3 @@
+webstite = https://chat.cdo.org.ua/
+requests per second = 5000
+duration = 60
