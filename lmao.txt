@@ -1,3 +1,2 @@
 webstite = https://chat.cdo.org.ua/
 requests per second = 500
-duration = 5
